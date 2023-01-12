@@ -1,0 +1,76 @@
+h1 {
+    color: red;
+}
+
+.add_btn {
+
+    text-align: center;
+    margin-top: 6px;
+}
+
+.add_btn .red_btn {
+    background-color: #ffcccc;
+    border-radius: 6px;
+    border-color: #ff6767;
+}
+
+.add_btn .blue_btn {
+    background-color: #d5ccff;
+    border-radius: 6px;
+    border-color: #8867ff;
+}
+
+.add_btn .green_btn {
+    background-color: #ccffd1;
+    border-radius: 6px;
+    border-color: #67ff8a;
+}
+
+.add_btn .yellow_btn {
+    background-color: #f8ffcc;
+    border-radius: 6px;
+    border-color: #f7ff67;
+}
+
+.title {
+    
+    /* padding: 2px; */
+    text-align: center;
+    height: 50px;
+    width: 100px;
+    
+   
+    margin-top: 2px;
+}
+.title .red_box{
+    background-color: #ff946a;
+    border: solid black 1px;
+    border-radius: 4px;
+}
+.title .yellow_box{
+    background-color: #ffff6a;
+    border: solid rgb(0, 0, 0) 1px;
+    border-radius: 4px;
+}
+.title .blue_box{
+    background-color: #766aff;
+    border: solid black 1px;
+    border-radius: 4px;
+}
+.title .green_box{
+    background-color: #6aff80;
+    border: solid black 1px;
+    border-radius: 4px;
+}
+
+.close_btn {
+    float: right;
+    background: red;
+    padding: 2px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 12px;
+    border-radius: 3px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
